@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/dev/gep-25-26-unreal-template-tttommyb/GEP_Template/Content/BP_InventoryComponent.uasset",
+				"C:/dev/gep-25-26-unreal-template-tttommyb/GEP_Template/Content/BP_Item.uasset",
+				"C:/dev/gep-25-26-unreal-template-tttommyb/GEP_Template/Content/UI/WBP_DisplayGrid.uasset",
+				"C:/dev/gep-25-26-unreal-template-tttommyb/GEP_Template/Content/UI/WBP_Slot.uasset",
+				"C:/dev/gep-25-26-unreal-template-tttommyb/GEP_Template/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/dev/gep-25-26-unreal-template-tttommyb/GEP_Template/Content/ThirdPerson/Input/Actions/IA_ToggleInventory.uasset",
+				"C:/dev/gep-25-26-unreal-template-tttommyb/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/dev/gep-25-26-unreal-template-tttommyb/GEP_Template/Content/UI/Icons/shiny-apple.uasset",
+				"C:/dev/gep-25-26-unreal-template-tttommyb/GEP_Template/Content/UI/WBP_DragVisual.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
